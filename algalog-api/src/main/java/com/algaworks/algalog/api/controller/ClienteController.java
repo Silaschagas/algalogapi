@@ -1,0 +1,62 @@
+package com.algaworks.algalog.api.controller;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.algaworks.algalog.domain.model.Cliente;
+
+@RestController
+public class ClienteController {
+	
+	@GetMapping("/clientes")
+	public List<Cliente> listar() {
+		var cliente1 = new Cliente();
+		cliente1.setId(1L);
+		cliente1.setNome("João de Souza");
+		cliente1.setTelefone("11 9 9452 9215");
+		cliente1.setEmail("sergio@gmail.com");
+		
+		var cliente2 = new Cliente();
+		cliente2.setId(2L);
+		cliente2.setNome("Maria da Silva");
+		cliente2.setTelefone("35 9 9412 9215");
+		cliente2.setEmail("mariadasilva@hotmail.com");
+		
+		var cliente3 = new Cliente();
+		cliente3.setId(3L);
+		cliente3.setNome("Domitila Silva");
+		cliente3.setTelefone("11 9 8895 9215");
+		cliente3.setEmail("mdomitila@hotmail.com");
+		
+		var cliente4 = new Cliente();
+		cliente4.setId(4L);
+		cliente4.setNome("Lais de Oliveira");
+		cliente4.setTelefone("35 9 5212 8532");
+		cliente4.setEmail("laisoli@gmail.com");
+		
+		var cliente5 = new Cliente();
+		cliente5.setId(5L);
+		cliente5.setNome("Marcia de Almeida");
+		cliente5.setTelefone("11 9 2538 4521");
+		cliente5.setEmail("marciadalm@yahoo.com");
+		
+		var cliente6 = new Cliente();
+		cliente6.setId(6L);
+		cliente6.setNome("Jose de Matos");
+		cliente6.setTelefone("88 9 5421 3332");
+		cliente6.setEmail("josedematos@hotmail.com");
+		
+		var cliente7 = new Cliente();
+		cliente7.setId(7L);
+		cliente7.setNome("Rosana Morais");
+		cliente7.setTelefone("11 8 9852 3212");
+		cliente7.setEmail("rosanamor@hotmail.com");
+
+		return Arrays.asList(cliente1, cliente2, cliente3, cliente4, 
+										cliente5, cliente6, cliente7);
+	}
+
+}
