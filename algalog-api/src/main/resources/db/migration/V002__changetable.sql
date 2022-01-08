@@ -1,0 +1,1 @@
+alter table cliente change column tfone fone varchar(20);

@@ -1,0 +1,1 @@
+alter table cliente change column orelhao telefone varchar(20);
