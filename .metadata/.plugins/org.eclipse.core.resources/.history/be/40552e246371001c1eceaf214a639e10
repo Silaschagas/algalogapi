@@ -1,0 +1,39 @@
+package com.algaworks.algalog.api.controller;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+import com.algaworks.algalog.domain.model.Cliente;
+import com.algaworks.algalog.domain.repository.ClienteRepository;
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor//serve para instanciar o repositório, do ClienteRepository, 
+				   //no caso uma boa prática, para que os métodos não fiquem 
+                   //todos aqui na Controller. Ah nesse caso em específico estamos usando Lombok.
+@RestController
+public class ClienteController {
+	
+	@Autowired
+	private ClienteRepository clienteRepository;//AutoWired faz uso da Interface como se fosse uma classe.
+
+	@GetMapping("/clientes")
+	public List<Cliente> listar() {
+		return clienteRepository.findAll();//método que está implementado na interface ClienteRepository
+		
+	}
+	
+	@GetMapping("/clientes/{clienteId}")
+	public ResponseEntity<Cliente> buscar(@PathVariable Long clienteId) {//método para retornar apenas um cliente pelo ID -- Poderia retornar também um cliente, mas nesse caso optou-se por retornar um ResponseEntity, pois pode-se editar melhor as respostas que estarão relacionadas ao ResponseEntity que é usado para editar os nomes dos status
+		Optional<Cliente> cliente = clienteRepository.findById(clienteId);
+		
+		if (cliente.isPresent()) {
+			return ResponseEntity.ok(cliente.get());
+		}
+		return ResponseEntity.notFound().build();
+		}
+}

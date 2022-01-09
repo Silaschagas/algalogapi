@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClienteController.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Cliente.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClienteRepository.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;SpringBootPropertyEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;algalog-api/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;V002__changetable.sql&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/V002__changetable.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/V002__changetable.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;algalog-api/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;renomeia.sql&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/renomeia.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/renomeia.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;V002__change.sql&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/V002__change.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/V002__change.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;change&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/change&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/change&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;changecolumntelefone&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/changecolumntelefone&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/changecolumntelefone&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;V001__cria-tabela-cliente.sql&quot; tooltip=&quot;algalog-api/src/main/resources/db/migration/V001__cria-tabela-cliente.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/algalog-api/src/main/resources/db/migration/V001__cria-tabela-cliente.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>ModelMigrationProcessor.001</tags>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_ps7DMGfmEeyFO79TKloCxQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ps7DMWfmEeyFO79TKloCxQ" label="%trimmedwindow.label.eclipseSDK" x="952" y="-8" width="976" height="1056">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_ps7DMGfmEeyFO79TKloCxQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ps7DMWfmEeyFO79TKloCxQ" label="%trimmedwindow.label.eclipseSDK" x="595" y="0" width="765" height="735">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -11,7 +11,6 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1638373007031"/>
     <tags>topLevel</tags>
-    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DMWfmEeyFO79TKloCxQ" selectedElement="_ps7DMmfmEeyFO79TKloCxQ" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ps7DMmfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_ps7DM2fmEeyFO79TKloCxQ">
         <children xsi:type="advanced:Perspective" xmi:id="_ps7DM2fmEeyFO79TKloCxQ" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_ps7DNGfmEeyFO79TKloCxQ" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -74,7 +73,7 @@
           <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DNGfmEeyFO79TKloCxQ" selectedElement="_ps7DPmfmEeyFO79TKloCxQ" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DNWfmEeyFO79TKloCxQ" containerData="2729" selectedElement="_ps7DNmfmEeyFO79TKloCxQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DNWfmEeyFO79TKloCxQ" containerData="1354" selectedElement="_ps7DNmfmEeyFO79TKloCxQ">
               <children xsi:type="basic:PartStack" xmi:id="_ps7DNmfmEeyFO79TKloCxQ" elementId="left" containerData="6000" selectedElement="_ps7DN2fmEeyFO79TKloCxQ">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ps7DN2fmEeyFO79TKloCxQ" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_ps8R5GfmEeyFO79TKloCxQ" closeable="true">
@@ -101,10 +100,11 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DPmfmEeyFO79TKloCxQ" containerData="7271" selectedElement="_ZlJDYG6hEeysXomC4BILUA" horizontal="true">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_ZlJDYG6hEeysXomC4BILUA" containerData="5000" selectedElement="_ps7DP2fmEeyFO79TKloCxQ">
-                <children xsi:type="advanced:Placeholder" xmi:id="_ps7DP2fmEeyFO79TKloCxQ" elementId="org.eclipse.ui.editorss" containerData="6178" ref="_ps8R1WfmEeyFO79TKloCxQ"/>
-                <children xsi:type="basic:PartStack" xmi:id="_a5EwcW6hEeysXomC4BILUA" elementId="PartStack@74147f3e" containerData="3822" selectedElement="_ps7DSmfmEeyFO79TKloCxQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ps7DPmfmEeyFO79TKloCxQ" containerData="8646" selectedElement="_ZlJDYG6hEeysXomC4BILUA" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_ZlJDYG6hEeysXomC4BILUA" containerData="5000" selectedElement="_a5EwcW6hEeysXomC4BILUA">
+                <children xsi:type="advanced:Placeholder" xmi:id="_ps7DP2fmEeyFO79TKloCxQ" elementId="org.eclipse.ui.editorss" containerData="7215" ref="_ps8R1WfmEeyFO79TKloCxQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_a5EwcW6hEeysXomC4BILUA" elementId="PartStack@74147f3e" containerData="2785" selectedElement="_ps7DSmfmEeyFO79TKloCxQ">
+                  <tags>active</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_ps7DRmfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.views.ProblemView" ref="_ps8SAmfmEeyFO79TKloCxQ" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
@@ -203,8 +203,6 @@
       <children xsi:type="basic:PartStack" xmi:id="_ps8R1mfmEeyFO79TKloCxQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_PNjwwG_vEeyRNqYeY3Eoow">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_UB0LcG6mEeysXomC4BILUA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Cliente.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Cliente.java&quot; partName=&quot;Cliente.java&quot; title=&quot;Cliente.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/domain/model/Cliente.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;688&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -212,12 +210,10 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_PNjwwG_vEeyRNqYeY3Eoow" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ClienteController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClienteController.java&quot; partName=&quot;ClienteController.java&quot; title=&quot;ClienteController.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;988&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClienteController.java&quot; partName=&quot;ClienteController.java&quot; title=&quot;ClienteController.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/api/controller/ClienteController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3406&quot; selectionTopPixel=&quot;811&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_X_9TIG_yEeyRNqYeY3Eoow" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ClienteRepository.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ClienteRepository.java&quot; partName=&quot;ClienteRepository.java&quot; title=&quot;ClienteRepository.java&quot; tooltip=&quot;algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/algalog-api/src/main/java/com/algaworks/algalog/domain/repository/ClienteRepository.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;19&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -254,7 +250,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_ps8SAmfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.ProblemsView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.ide"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;expanded>&#xD;&#xA;&lt;category IMemento.internal.id=&quot;Warnings (2 items)&quot;/>&#xD;&#xA;&lt;/expanded>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view PRIMARY_SORT_FIELD=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot; categoryGroup=&quot;org.eclipse.ui.ide.severity&quot; markerContentGenerator=&quot;org.eclipse.ui.ide.problemsGenerator&quot; partName=&quot;Problems&quot;>&#xD;&#xA;&lt;columnWidths org.eclipse.ui.ide.locationField=&quot;90&quot; org.eclipse.ui.ide.markerType=&quot;90&quot; org.eclipse.ui.ide.pathField=&quot;120&quot; org.eclipse.ui.ide.resourceField=&quot;90&quot; org.eclipse.ui.ide.severityAndDescriptionField=&quot;300&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.severityAndDescriptionField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.resourceField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.pathField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.locationField&quot;/>&#xD;&#xA;&lt;visible IMemento.internal.id=&quot;org.eclipse.ui.ide.markerType&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_ps8SA2fmEeyFO79TKloCxQ" elementId="org.eclipse.ui.views.ProblemView">
@@ -299,6 +295,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_ps8SDWfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -384,7 +382,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ps84aGfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_UNbLwG_pEeyRNqYeY3Eoow" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ptGDVGfmEeyFO79TKloCxQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_i8eeYHGPEeyi5vo0WD05uA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_ptGDVGfmEeyFO79TKloCxQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ps84dWfmEeyFO79TKloCxQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -415,7 +413,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ps84rWfmEeyFO79TKloCxQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_UNhSYG_pEeyRNqYeY3Eoow" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_ptGDBGfmEeyFO79TKloCxQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_i8j98HGPEeyi5vo0WD05uA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_ptGDBGfmEeyFO79TKloCxQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ps84uWfmEeyFO79TKloCxQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
